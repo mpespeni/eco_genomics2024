@@ -1,0 +1,7 @@
+
+# R specific ignore files
+eco_genomics2024.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
